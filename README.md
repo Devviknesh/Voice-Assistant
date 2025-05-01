@@ -7,10 +7,6 @@ Introduction
 
 Voice Assistant is a Python-based virtual assistant that performs various tasks based on voice commands. It integrates speech recognition and natural language processing to provide a seamless user experience.
 
-
-
-Answering general knowledge questions
-
 Opening applications (e.g., Notepad, Browser)
 
 Fetching weather updates
