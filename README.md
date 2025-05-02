@@ -9,9 +9,7 @@ Voice Assistant is a Python-based virtual assistant that performs various tasks 
 
 Opening applications (e.g., Notepad, Browser)
 
-Fetching weather updates
-
-Playing music
+Fetching Playing music
 
 Setting reminders and alarms
 
